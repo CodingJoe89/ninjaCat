@@ -1,0 +1,9 @@
+img{
+  display: block;
+  margin: 10px;
+  text-align: center;
+}
+.imgBlock{
+  text-align: center;
+  margin: 20px 200px;
+}
